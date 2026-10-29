@@ -4,8 +4,8 @@
   --sand: #e9e3d6;
   --sage: #c6d1bb;
   --muted: #6f776d;
-  --serif: "DM Serif Display", serif;
-  --sans: "Inter", sans-serif;
+  --serif: var(--font-dm-serif), serif;
+  --sans: var(--font-inter), sans-serif;
 }
 
 * { box-sizing: border-box; margin: 0; }
